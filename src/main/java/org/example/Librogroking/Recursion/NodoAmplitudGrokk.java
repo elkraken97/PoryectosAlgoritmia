@@ -37,7 +37,7 @@ public class NodoAmplitudGrokk {
         amigos.put("Jhonny",List.of());
 
         Queue<Person> personas = new ArrayDeque<>(amigos.get("yo"));
-        Set<String > salidos = new HashSet<>();
+        Set<String> salidos = new HashSet<>();
         while (!personas.isEmpty()){
 
             Person actual = personas.poll();
@@ -56,7 +56,13 @@ public class NodoAmplitudGrokk {
 
         }
 
+
+        System.out.println();
+
     }
+
+
+
 
 
 }

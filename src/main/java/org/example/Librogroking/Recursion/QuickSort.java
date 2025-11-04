@@ -53,6 +53,17 @@ public class QuickSort {
         }
 
 
+        /*
+        nagatoro
+        sono bisque doll
+        bochan
+        love is war
+        boku no kokoro
+        la miope
+        horimiya
+        bunny girl
+        *\
+         */
         int pivote = arreglo.removeFirst();
 
         List<Integer> menor = new ArrayList<>();
