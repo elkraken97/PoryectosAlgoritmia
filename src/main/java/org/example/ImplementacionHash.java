@@ -84,7 +84,8 @@ public class ImplementacionHash {
 
         return c - 'a' + 1 ;
 
-
+//Hacer diagrama
+        //Shell hass fibonachis secuenciales busqueda binaria selection sort quicksort factorial hash
 
     }
 
